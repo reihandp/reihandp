@@ -4,12 +4,12 @@ Currently focusing on growing my skills, both technically and personally.<br>
 Open to collaborating on beginner-friendly open source or design-related projects!<br>
 
 <br>
-<p>
-  <a href="https://github.com/reihandp" target="_blank">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reihandp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&refresh=true"/>
-    &nbsp;&nbsp;
-  </a>
+<p align="center">
   <a href="https://github.com/reihandp" target="_blank">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reihandp&layout=compact&theme=dark&refresh=true"/>
-  </a>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reihandp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&refresh=true" style="margin : 20px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/reihandp" target="_blank">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reihandp&layout=compact&theme=dark&refresh=true" style="margin : 20px"/>
+  </a>
 </p>
