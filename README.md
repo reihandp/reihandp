@@ -14,4 +14,3 @@ Open to collaborating on beginner-friendly open source or design-related project
   </a>
 </p>
 
-test test
