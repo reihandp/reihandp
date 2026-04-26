@@ -38,12 +38,12 @@ Currently focusing on growing my skills, both technically and personally.<br>
 
 ---
 
-## 🐍 Contribution Graph
+## 🕹️ Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reihandp/reihandp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reihandp/reihandp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reihandp/reihandp/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reihandp/reihandp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reihandp/reihandp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reihandp/reihandp/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -66,18 +66,3 @@ Currently focusing on growing my skills, both technically and personally.<br>
 <p align="center">
   <i>"Data is the new oil — and I'm here to refine it."</i>
 </p>
-
-<!-- <br>
-<p>
-  <a href="https://github.com/reihandp" target="_blank">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reihandp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&refresh=true" style="margin: 20px"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/reihandp" target="_blank">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reihandp&layout=compact&theme=dark&refresh=true" style="margin: 20px"/>
-  </a>
-</p> -->
-
-
