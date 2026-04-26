@@ -56,7 +56,7 @@ Currently focusing on growing my skills, both technically and personally.<br>
   </a>
   <a href="mailto:reihandwi3122@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  </a> 
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=reihandp&color=0891b2&style=flat-square" alt="profile views"/>
 </p>
@@ -64,5 +64,8 @@ Currently focusing on growing my skills, both technically and personally.<br>
 ---
 
 <p align="center">
-  <i>"Data is the new oil — and I'm here to refine it."</i>
+  <i>"Data predicted a future with you, but I forgot that even the best systems can crash."</i>
 </p>
+<!-- 
+suku cadang 😇: Data is the new oil, and I’m burning every memory of you just to stay warm. 
+ -->
