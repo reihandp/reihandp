@@ -23,18 +23,19 @@ Currently focusing on growing my skills, both technically and personally.<br>
 
 > 🔄 exploring tools in the data ecosystem
 
----
+<!-- ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats -->
 
 <!-- <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reihandp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reihandp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reihandp&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
+
 
 ---
 
