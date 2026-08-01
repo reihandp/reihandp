@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <i>“Passionate about learning and exploring the world of data and tech.”</i> 🦇
+  <i>“Passionate about learning and exploring the world of data and tech.”</i>
 </div>
 
 <br/>
@@ -49,20 +49,23 @@
 ## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://github.com/reihandp">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://www.linkedin.com/in/reihan-dwi-patria-8a8774291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:reihandwi3122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=reihandp&color=0891b2&style=for-the-badge" alt="profile views" />
+    <img src="https://img.shields.io/badge/Gmail-Say_Hi-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=reihandp&label=Profile%20Views&color=0891b2&style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-  <i>“Data predicted a future with you, but I forgot that even the best systems can crash.”</i> 💔📉
+  <i>“Still learning. Still curious. Forever exploring.”</i> 
 </div>
 
 <br/>
